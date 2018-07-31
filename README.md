@@ -1,1 +1,1 @@
-# smallprogram-learning
+# miniprogram-learning
